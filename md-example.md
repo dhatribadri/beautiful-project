@@ -1,30 +1,14 @@
 ---
 layout: page
-title: Markdown-based page example
-subtitle: Subtitle goes here
-bigimg: /img/start.jpg
+# title: Markdown-based page example
+# subtitle: Subtitle goes here
+bigimg: /img/giphy.gif
 ---
 
-## Here is where we can insert an image:
+**I’m still working on data and figuring out why crayfish are cool! Check back for updated information!! ** 
 
-![GW Data Science logo](/img/gwdsp.png)
+_*Meanwhile, enjoy this cute gif of a crayfish!*_
 
-## How about a link?
+bigimg: /img/giphy1.gif
+---
 
-And of course some text, and maybe [a link to https://datasci.columbian.gwu.edu/](https://datasci.columbian.gwu.edu/)
-
-## Or some code?
-
-Some code might go here:
-
-```
-x <- 5 # Here's some R code
-```
-
-What if I just paste the HTML for a plotly plot?
-
-We can do it with a line of markdown that looks like this (without the slashes - I haven't solved that problem just yet...):
-```
-\{\% include jupyter-basic_bar.html \%\}
-```
-{% include jupyter-basic_bar.html %}
