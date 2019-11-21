@@ -8,7 +8,5 @@ bigimg: /img/giphy.gif
 
 _Meanwhile, enjoy this cute gif of a crayfish!_
 
-bigimg: /img/giphy1.gif
----
 
 
