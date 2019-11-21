@@ -1,6 +1,6 @@
 ---
 layout: page
-title: _**Oops, looks like this page is not awesome enough to view yet!**_ 
+title: 
 bigimg: /img/giphy.gif
 ---
 
