@@ -17,7 +17,7 @@ url: "http://dhatribadri.github.io/bioinformatics-class-project"
 title: Bioinformatics Research Project
 
 # Short description of your site
-description: Here's the description of my project
+# description: Here's the description of my project
 
 # --- Navigation bar options --- #
 
@@ -30,13 +30,13 @@ navbar-links:
   Home: ""
   Introduction:
   Method:
-    - Getting started: "getstarted"
-    - Other sites that use this template: "featured-users"
-    - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
-    - My visualization: "viz"
+    - De novo assembly: "getstarted"
+    - Multiple Sequence Alignment (MSA): "featured-users"
+    - Phylogenetic tree mapper: "viz"
   Results:
-    - Example of a Markdown page: "md-example"
-    - Example of an HTML page: "html-example"
+    - Contig Assembly: "md-example"
+    - MSA of Consensus Sequences: "html-example"
+    - MSA of GenBank and Consensus Sequences:
   Discussion:
   Conclusion: 
 
