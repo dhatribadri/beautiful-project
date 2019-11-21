@@ -30,13 +30,13 @@ navbar-links:
   Home: ""
   Introduction:
   Method:
-    - De novo assembly: "getstarted"
-    - Multiple Sequence Alignment (MSA): "featured-users"
-    - Phylogenetic tree mapper: "viz"
+    - De novo assembly: "building a contig"
+    - Multiple Sequence Alignment (MSA): 
+    - Phylogenetic tree mapper: 
   Results:
     - Contig Assembly: "md-example"
-    - MSA of Consensus Sequences: "html-example"
-    - MSA of GenBank and Consensus Sequences:
+    - MSA of Consensus Sequences: "md-example"
+    - MSA of GenBank and Consensus Sequences: "md-example"
   Discussion:
   Conclusion: 
 
