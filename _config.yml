@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   Introduction:
   Method:
-    - De novo assembly: "building a contig"
+    - De novo assembly: "buildingacontig"
     - Multiple Sequence Alignment (MSA): 
     - Phylogenetic tree mapper: 
   Results:
