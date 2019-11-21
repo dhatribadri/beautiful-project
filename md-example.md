@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oops! 
+title: Oops, looks like this page is not ready to be viewed! 
 bigimg: /img/giphy.gif
 ---
 
